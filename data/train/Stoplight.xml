@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesTraining</folder>
+	<filename>Stoplight.jpg</filename>
+	<path>C:\Users\msl\Desktop\ImagesTraining\Stoplight.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficLight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>7</ymin>
+			<xmax>470</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

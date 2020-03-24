@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesTraining</folder>
+	<filename>77063742-traffic-light-red-light-crosswalk-seamless-pattern-vector-image-road-signs-for-children-.jpg</filename>
+	<path>C:\Users\msl\Desktop\ImagesTraining\77063742-traffic-light-red-light-crosswalk-seamless-pattern-vector-image-road-signs-for-children-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficLight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>171</ymin>
+			<xmax>851</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+</annotation>

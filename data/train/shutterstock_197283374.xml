@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesTraining</folder>
+	<filename>shutterstock_197283374.jpg</filename>
+	<path>C:\Users\msl\Desktop\ImagesTraining\shutterstock_197283374.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>648</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficLight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>82</ymin>
+			<xmax>324</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

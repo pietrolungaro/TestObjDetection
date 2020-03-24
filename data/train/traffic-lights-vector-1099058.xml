@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesTraining</folder>
+	<filename>traffic-lights-vector-1099058.jpg</filename>
+	<path>C:\Users\msl\Desktop\ImagesTraining\traffic-lights-vector-1099058.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficLight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>46</ymin>
+			<xmax>699</xmax>
+			<ymax>977</ymax>
+		</bndbox>
+	</object>
+</annotation>
