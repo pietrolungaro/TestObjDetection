@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesTest</folder>
+	<filename>lego-hobbit-loose-mini-figure-mirkwood-elf-with-sword-19__11682.1461305064.jpg</filename>
+	<path>C:\Users\msl\Desktop\ImagesTest\lego-hobbit-loose-mini-figure-mirkwood-elf-with-sword-19__11682.1461305064.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1105</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lego</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>13</ymin>
+			<xmax>1101</xmax>
+			<ymax>1280</ymax>
+		</bndbox>
+	</object>
+</annotation>

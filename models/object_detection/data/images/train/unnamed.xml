@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesTest</folder>
+	<filename>unnamed.jpg</filename>
+	<path>C:\Users\msl\Desktop\ImagesTest\unnamed.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>423</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>136</ymin>
+			<xmax>382</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

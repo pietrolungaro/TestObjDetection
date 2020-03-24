@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesTest</folder>
+	<filename>lego-railway-employee-5-black-legs-red-hat-train-trn060_600x.jpg</filename>
+	<path>C:\Users\msl\Desktop\ImagesTest\lego-railway-employee-5-black-legs-red-hat-train-trn060_600x.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>45</ymin>
+			<xmax>458</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

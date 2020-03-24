@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesTest</folder>
+	<filename>kisspng-the-lego-group-shopping-lady-5b22c3ab0731b0.8489110715290049710295.jpg</filename>
+	<path>C:\Users\msl\Desktop\ImagesTest\kisspng-the-lego-group-shopping-lady-5b22c3ab0731b0.8489110715290049710295.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>23</ymin>
+			<xmax>535</xmax>
+			<ymax>919</ymax>
+		</bndbox>
+	</object>
+</annotation>

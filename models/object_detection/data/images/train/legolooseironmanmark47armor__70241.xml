@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesTest</folder>
+	<filename>legolooseironmanmark47armor__70241.1530656836.jpg</filename>
+	<path>C:\Users\msl\Desktop\ImagesTest\legolooseironmanmark47armor__70241.1530656836.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>742</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>26</ymin>
+			<xmax>698</xmax>
+			<ymax>1277</ymax>
+		</bndbox>
+	</object>
+</annotation>

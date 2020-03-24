@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesTest</folder>
+	<filename>lego-employee-minifigure-exclusive_1_d7153902128b70309dd3f9d1c72ac930.jpg</filename>
+	<path>C:\Users\msl\Desktop\ImagesTest\lego-employee-minifigure-exclusive_1_d7153902128b70309dd3f9d1c72ac930.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>810</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>14</ymin>
+			<xmax>931</xmax>
+			<ymax>783</ymax>
+		</bndbox>
+	</object>
+</annotation>

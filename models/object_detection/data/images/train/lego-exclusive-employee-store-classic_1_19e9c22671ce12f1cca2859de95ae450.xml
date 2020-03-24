@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesTest</folder>
+	<filename>lego-exclusive-employee-store-classic_1_19e9c22671ce12f1cca2859de95ae450.jpg</filename>
+	<path>C:\Users\msl\Desktop\ImagesTest\lego-exclusive-employee-store-classic_1_19e9c22671ce12f1cca2859de95ae450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>607</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>244</ymin>
+			<xmax>506</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesTest</folder>
+	<filename>aacb5e37-a25e-42f4-aa01-b360a5b8852a.jpg</filename>
+	<path>C:\Users\msl\Desktop\ImagesTest\aacb5e37-a25e-42f4-aa01-b360a5b8852a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>525</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>252</ymin>
+			<xmax>375</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+</annotation>
